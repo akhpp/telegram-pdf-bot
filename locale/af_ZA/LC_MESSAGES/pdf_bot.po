@@ -1,12 +1,12 @@
 # locale translations for telegram-pdf-bot.
-# Copyright (C) 2021 zeshuaro
+# Copyright (C) 2021 Preet
 # This file is distributed under the same license as the telegram-pdf-bot
 # project.
-# zeshuaro <zeshuaro@gmail.com>, 2021.
+# Preet <amroke2k07@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: telegram-pdf-bot\n"
-"Report-Msgid-Bugs-To: zeshuaro@gmail.com\n"
+"Report-Msgid-Bugs-To: amroke2k07@gmail.com\n"
 "POT-Creation-Date: 2021-01-05 01:21+0000\n"
 "PO-Revision-Date: 2021-01-05 01:23\n"
 "Last-Translator: \n"
